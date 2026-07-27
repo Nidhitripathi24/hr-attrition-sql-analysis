@@ -1,0 +1,12 @@
+Dataset Source
+
+IBM HR Analytics Employee Attrition & Performance Dataset
+
+Source:
+https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+Description:
+This project uses the publicly available IBM HR Analytics Employee Attrition & Performance dataset from Kaggle. The dataset contains employee demographic, job, salary, performance, and attrition information for 1,470 employees.
+
+License:
+Please refer to the Kaggle dataset page for the applicable license and usage terms.
